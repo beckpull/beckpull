@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Node.js!
 - 💞️ I’m always looking to collaborate on something! Shoot me a message if you have anything you're working on and want a fun teammate to tackle it with 💪
 - 📫 beckpull@icloud.com
-- ⚡ Fun fact: I love fueling aircraft 🛩️
+- ⚡ Fun fact: I love fueling aircraft · 🛩️
 
